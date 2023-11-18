@@ -1,4 +1,3 @@
-
 function createArray(min, max) {
     arr = []
     for (let i = min; i <= max; i++) {
